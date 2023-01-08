@@ -1,0 +1,37 @@
+body{
+    background-color: greenyellow
+}
+#comment1{
+    background-color: yellow;
+}
+h3.className1{
+ color:blue;
+ margin: 0px 0px 0px 50px;
+}
+
+p.className1{
+ background-color: yellow;
+ margin-left: 30px;
+
+
+}
+
+p.classborder{
+    background-color: yellow;
+    margin: 50px 0px 0px 80px; /* margin : top,right,bottom,left*/
+    border-style: dotted;
+
+}
+
+a.likn2{
+  text-decoration: none;
+}
+h1{
+ /*text-transform: uppercase*/
+/* text-transform: lowercase*/
+ text-transform: capitalize
+}
+
+h1.letterSpace{
+letter-spacing : 10px;
+}
